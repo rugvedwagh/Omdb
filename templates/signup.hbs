@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/login.css">
+    <style>
+        button {
+            background-color: transparent;
+            border: 1px solid black;
+            padding: 3px;
+            border-radius: 3px;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        button:hover {
+            background-color: black;
+            color: white;
+            transition: 0.3s;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Sign Up</h1>
+
+    <form action="/signup" method="post">
+        <input style="border-radius : 4px;" placeholder="Name" name="name" type="text">
+        <br>
+        <input style="border-radius : 4px;" placeholder="Password" name="password" type="password">
+        <br>
+        <input class="sub" type="submit"><br>
+    </form>
+    <a href="/"><button id="x">Login Page</button></a>
+</body>
+
+</html>

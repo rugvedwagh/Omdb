@@ -1,0 +1,63 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: grid;
+    place-items: center;
+    background-image: url('https://i.imgur.com/PA7N7H5.jpeg');
+    background-size: cover;
+}
+
+
+a{
+    text-decoration: none;
+    color: white
+}
+a:hover{
+    color: black;
+    transition: 0.3s;
+}
+
+input{
+    border-radius: 6    px;
+    border: none;
+}
+
+h1{
+    /* color: rgb(223, 155, 52); */
+    margin-top: 20vh;
+    margin-bottom: 30px;
+    color: white;
+}
+input{
+    font-size: 1rem;
+    width: 300px;
+    padding: 6px 2px; 
+    margin: 10px 0 10px 0;
+}
+.sub{
+    background-color: transparent;
+    border-radius: 3px;
+    color: white;
+    /* border: none; */
+    border:1px solid blanchedalmond;
+    cursor: pointer;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sub:hover{
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+form{
+    /* margin-top: 20vh; */
+    text-align: center;
+    border: 1px solid rgb(59, 89, 255);
+    border-radius: 15px;
+    padding: 20px;
+    background-color: rgb(69, 202, 255);
+}
