@@ -1,7 +1,7 @@
 const express = require("express")
 const path = require("path")
-const app = express()
 const LogInCollection = require("./mongo")
+const app = express()
 const PORT = process.env.PORT || 3000
 
 app.use(express.json())
@@ -36,11 +36,11 @@ app.post('/signup', async (req, res) => {
     }
     else {
         var mydat = new LogInCollection(req.body)
-        mydat.save().then(item=>{
+        mydat.save().then(item => {
             // res.status(201).render("home", { naming: `Welcome ${req.body.name} ` })
             res.status(201).render("login")
-        }).catch(e=>{
-            res.send("Error : ",e)
+        }).catch(e => {
+            res.send("Error : ", e)
         })
         //******** */
         // const data = {
@@ -70,7 +70,7 @@ app.post('/login', async (req, res) => {
 
     catch (e) {
         console.log("Message : " + e)
-        cred= {
+        cred = {
             "Name": req.body.name,
             "Password": req.body.password
         }
@@ -81,5 +81,5 @@ app.post('/login', async (req, res) => {
 })
 
 app.listen(PORT, () => {
-    console.log("\nListening at Port : " + PORT)
+    console.log(`\nListening at port : ${PORT}`)
 })

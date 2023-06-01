@@ -1,5 +1,6 @@
 const mongoose=require("mongoose")
-const URL  = "mongodb://localhost:27017/logsig"
+// const URL  = "mongodb://localhost:27017/logsig"
+const URL  = "mongodb+srv://rugved:1234@clusterx.mc03un9.mongodb.net/?retryWrites=true&w=majority"
 
 mongoose.connect(URL)
 .then(()=>{
