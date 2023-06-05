@@ -149,3 +149,5 @@
 - `Southpaw`
 - `Call me by your name`
 - `The Witch`
+- `The ritual`
+- `Requiem for a dream`
