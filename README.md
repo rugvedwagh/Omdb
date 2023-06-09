@@ -151,3 +151,4 @@
 - `The Witch`
 - `The ritual`
 - `Requiem for a dream`
+- `Perfect blue`
