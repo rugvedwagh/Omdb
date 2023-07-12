@@ -156,5 +156,6 @@
 - `Ford vs ferrari`
 - `Columbus`
 - `Primal fear`
-
 - `The florida project`
+- `Red rocket`
+- `The nice guys`
