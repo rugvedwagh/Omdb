@@ -159,3 +159,7 @@
 - `The florida project`
 - `Red rocket`
 - `The nice guys`
+- `The brox tale`
+- `Mission impossible`
+- `Oppenheimer`
+- 
