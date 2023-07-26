@@ -162,4 +162,5 @@
 - `The brox tale`
 - `Mission impossible`
 - `Oppenheimer`
-- 
+- `Barbie`
+- `Nueve reinas`
