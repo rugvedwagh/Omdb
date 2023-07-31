@@ -159,8 +159,10 @@
 - `The florida project`
 - `Red rocket`
 - `The nice guys`
-- `The brox tale`
+- `A sun`
+- `The bronx tale`
 - `Mission impossible`
 - `Oppenheimer`
 - `Barbie`
 - `Nueve reinas`
+- `Everything everywhere all at once`
