@@ -166,3 +166,6 @@
 - `Barbie`
 - `Nueve reinas`
 - `Everything everywhere all at once`
+- `The texas chainsaw massacre`
+- `Jurassic park`
+- `y-tu-mama-tambien`
