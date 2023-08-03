@@ -168,4 +168,4 @@
 - `Everything everywhere all at once`
 - `The texas chainsaw massacre`
 - `Jurassic park`
-- `y-tu-mama-tambien`
+- `Y tu mama tambien`
