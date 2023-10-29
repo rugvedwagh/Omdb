@@ -174,6 +174,7 @@
 - `Children of men`
 - `Collateral`
 - `Talk to me`
+- `Lake mungo`
 - `After hours`
 - `Kingdom of heaven`
 - `Killers of the flower moon`
