@@ -176,4 +176,7 @@
 - `Talk to me`
 - `After hours`
 - `Kingdom of heaven`
+- `Killers of the flower moon`
+- `Rush`
+- `Cha cha real smooth`
 
