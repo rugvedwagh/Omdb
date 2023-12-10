@@ -182,4 +182,6 @@
 - `Rush`
 - `Cha cha real smooth`
 - `Pride and prejudice`
+- `Napoleon`
+- `For a few dollars more`
 
