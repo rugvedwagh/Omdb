@@ -187,7 +187,7 @@
 - `The assassination of jesse james by the coward robert ford`
 - `La sociedad de la nieve`
 - `Anatomy of a fall`
-- `Little miss sunshine
+- `Little miss sunshine`
 - `Suzume`
 - `Grave of the fireflies`
 - `The graduate`
