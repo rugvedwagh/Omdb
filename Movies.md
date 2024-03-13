@@ -19,7 +19,7 @@
 - `A beautiful mind`
 - `Thin red line`
 - `Sully`
-- `Bladerunner 2042`
+- `Bladerunner 2049`
 - `Dog day afternoon`
 - `Scent of a woman`
 - `Once upon a time in Hollywood`
@@ -185,5 +185,15 @@
 - `Napoleon`
 - `For a few dollars more`
 - `The assassination of jesse james by the coward robert ford`
+- `La sociedad de la nieve`
 - `Anatomy of a fall`
-
+- `Little miss sunshine
+- `Suzume`
+- `Grave of the fireflies`
+- `The graduate`
+- `Dallas buyer's club`
+- `The game`
+- `The holdovers`
+- `The zone of interest`
+- `Butch Cassidy and the sundance kid`
+- `Cure`
