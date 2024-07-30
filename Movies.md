@@ -206,3 +206,6 @@
 - `Tombstone`
 - `The vanishing`
 - `Nocturnal animals`
+- `Burning`
+- `In bruges`
+- `Nomadland`
