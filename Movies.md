@@ -1,4 +1,4 @@
-- `Taxi Driver`
+02- `Taxi Driver`
 - `The pianist`
 - `The Godfather 1`
 - `The Godfather 2`
@@ -209,3 +209,5 @@
 - `Burning`
 - `In bruges`
 - `Nomadland`
+- `All of us strangers`
+- `Locke`
