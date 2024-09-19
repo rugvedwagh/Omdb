@@ -1,4 +1,4 @@
-02- `Taxi Driver`
+- `Taxi Driver`
 - `The pianist`
 - `The Godfather 1`
 - `The Godfather 2`
