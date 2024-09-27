@@ -207,8 +207,10 @@
 - `The vanishing`
 - `Nocturnal animals`
 - `Burning`
+- `In the mood for love`
 - `In bruges`
 - `Nomadland`
 - `All of us strangers`
 - `Locke`
 - `Monster`
+- `Tumbbad`
