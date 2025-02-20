@@ -218,6 +218,9 @@
 - `Barry lyndon`
 - `Woman of the hour`
 - `Gladiator II`
+- `The highwaymen`
+- `Nosfertatu`
+- `Django unchained`
 - `Blue velvet`
 - `Glass Onion`
 - `Atonement`
