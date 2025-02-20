@@ -218,3 +218,6 @@
 - `Barry lyndon`
 - `Woman of the hour`
 - `Gladiator II`
+- `Blue velvet`
+- `Glass Onion`
+- `Atonement`
