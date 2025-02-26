@@ -220,6 +220,8 @@
 - `Gladiator II`
 - `The highwaymen`
 - `Nosfertatu`
+- `The sixth sense`
+- `Woman under the influence`
 - `Django unchained`
 - `Blue velvet`
 - `Glass Onion`
