@@ -188,6 +188,7 @@
 - `La sociedad de la nieve`
 - `Anatomy of a fall`
 - `Little miss sunshine`
+- `The trial of chicago 7`
 - `Suzume`
 - `Grave of the fireflies`
 - `The graduate`
@@ -226,3 +227,4 @@
 - `Blue velvet`
 - `Glass Onion`
 - `Atonement`
+- `Notting hill`
