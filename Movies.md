@@ -109,11 +109,13 @@
 - `Drive`
 - `The big short`
 - `Margin call`
+- `Zodiac`
 - `Oldboy`
 - `The king of comedy`
 - `Get out`
 - `The founder`
 - `Serpico`
+- `The big lebowski`
 - `Prisoners`
 - `Gokseong`
 - `Terrified`
@@ -219,6 +221,7 @@
 - `Barry lyndon`
 - `Woman of the hour`
 - `Gladiator II`
+- `Dune 2`
 - `The highwaymen`
 - `Nosfertatu`
 - `The sixth sense`
