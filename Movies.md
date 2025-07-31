@@ -239,5 +239,7 @@
 - `Mississippi burning`
 - `High plains drifter`
 - `October sky`
+- `F1`
+- `Superman 2025`
 - `Animal kingdom`
 - `My american friend`
