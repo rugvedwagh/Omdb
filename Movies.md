@@ -236,3 +236,8 @@
 - `Cape fear`
 - `Donnie darko`
 - `Skeleton key`
+- `Mississippi burning`
+- `High plains drifter`
+- `October sky`
+- `Animal kingdom`
+- `My american friend`
