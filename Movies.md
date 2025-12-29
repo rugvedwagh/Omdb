@@ -243,3 +243,12 @@
 - `Superman 2025`
 - `Animal kingdom`
 - `My american friend`
+- `The hateful eight`
+- `One battle after another`
+- `Walk the line`
+- `Weapons`
+- `Bugonia`
+- `Misery`
+- `Mulholland drive`
+- `Vertigo`
+- `Lost highway`
